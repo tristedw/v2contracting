@@ -314,6 +314,15 @@ footer {
   cursor: pointer;
   transform: translateY(-50%);
   color: white;
+  z-index: 5;
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
 }
 
 .prev:hover, .next:hover {
