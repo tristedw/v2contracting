@@ -1,45 +1,45 @@
-**V2 Contracting – Client Website Deployment**
+# **V2 Contracting – Client Website Deployment**
 
-This repository contains the production-ready source code for the V2 Contracting website, built and maintained by me (TristEdw).
+This repository contains the production-ready source code for the V2 Contracting website, built and maintained by Tristan (TristEdw).
 
-The purpose of this repository is to share the final website build that I developed for my client and to provide a clear record of the codebase currently hosted at:
-https://v2contracting.ca
+The purpose of this repository is to provide a clear, accessible copy of the deployed website currently hosted at:
 
-**About This Project**
+**https://v2contracting.ca**
 
-This website was fully designed, developed, and deployed by me for the client V2 Contracting. Work included:
+---
 
-Modern responsive UI and UX.
+## **About This Project**
 
-Mobile-first layout and optimization.
+This website was fully designed, developed, and deployed by me for the client **V2 Contracting**. Scope of work included:
 
-Lightweight front-end architecture.
+- Full front-end design and development  
+- Responsive, mobile-first UI  
+- Clean and lightweight architecture  
+- Semantic, SEO-friendly structure  
+- Hosting, deployment, and configuration  
+- Ongoing maintenance and updates as needed  
 
-SEO-friendly semantic structure.
-
-Hosting configuration and deployment handled under my management.
 This repository mirrors the deployed build for transparency and reference.
 
-**Tech Stack**
+---
 
-HTML5, CSS3, JavaScript.
-Responsive design.
-Minimal, dependency-free implementation.
+## **Tech Stack**
 
-**Purpose of This Repository**
+- **HTML5**  
+- **CSS3**  
+- **Vanilla JavaScript**  
+- **Responsive design principles**  
+- **No external frameworks or dependencies** unless explicitly required  
 
-This is not an open-source project.
+---
+
+## **Purpose of This Repository**
+
 This repository exists to:
 
-Showcase the completed website for portfolio purposes.
+- Showcase the completed website for portfolio and documentation purposes  
+- Track the deployed build  
+- Allow the client to review the codebase if needed  
+- Maintain clarity and transparency in hosting and deployment  
 
-Track the deployed build.
-
-Allow the client to view the codebase if needed.
-
-Maintain transparency in hosting and deployment.
-
-**License**
-
-All rights to the design, branding, and content belong to V2 Contracting.
-The code is provided here strictly for reference and is not licensed for reuse.
+---
