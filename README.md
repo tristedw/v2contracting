@@ -9,28 +9,35 @@ https://v2contracting.ca
 
 This website was fully designed, developed, and deployed by me for the client V2 Contracting. Work included:
 
-_Modern responsive UI and UX
-Mobile-first layout and optimization
-Lightweight front-end architecture
-SEO-friendly semantic structure_
+Modern responsive UI and UX.
 
-Hosting configuration and deployment handled under my management
+Mobile-first layout and optimization.
+
+Lightweight front-end architecture.
+
+SEO-friendly semantic structure.
+
+Hosting configuration and deployment handled under my management.
 This repository mirrors the deployed build for transparency and reference.
 
 **Tech Stack**
-HTML5, CSS3, JavaScript
-Responsive design
-Minimal, dependency-free implementation
+
+HTML5, CSS3, JavaScript.
+Responsive design.
+Minimal, dependency-free implementation.
 
 **Purpose of This Repository**
 
 This is not an open-source project.
 This repository exists to:
 
-_Showcase the completed website for portfolio purposes
-Track the deployed build
-Allow the client to view the codebase if needed
-Maintain transparency in hosting and deployment_
+Showcase the completed website for portfolio purposes.
+
+Track the deployed build.
+
+Allow the client to view the codebase if needed.
+
+Maintain transparency in hosting and deployment.
 
 **License**
 
